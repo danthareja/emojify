@@ -3,7 +3,7 @@
   "description": "A useless tool that replaces boring variable names with their fun emoji counterparts",
   "author": "Dan Thareja <dan.thareja@gmail.com>",
   "license": "BSD",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "engines": {
     "node": ">=0.4.0"
   },
