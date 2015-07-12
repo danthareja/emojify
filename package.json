@@ -27,6 +27,13 @@
     "tools",
     "LICENSE"
   ],
+  "keywords": [
+    "emojify",
+    "emoji",
+    "uglify",
+    "minify",
+    "mangle"
+  ],
   "dependencies": {
     "async": "~0.2.6",
     "source-map": "0.1.34",
