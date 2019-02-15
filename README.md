@@ -3,13 +3,20 @@
 Emojify is a [useless](#can-i-run-emojified-code) tool that replaces boring variable names with their fun emoji counterparts. :poop::fire:
 
 ## Install
+
+This package is no longer hosted on `npm`
+
+Another developer requested the use of the package name `emojify`, which I happily granted because this is package is [useless](#can-i-run-emojified-code) and will be better suited when attached to a real project. I've decided not to republish it under a new name.
+
+If you still to want to install it for some reason, you can do so by installing directly from this repository.
+
 For command line use:
 
-    npm install -g emojify
+    npm install -g danthareja/emojify
 
 For programmatic use:
 
-    npm install emojify
+    npm install danthareja/emojify
 ## Usage
 Emojify is a drop-in replacement for [UglifyJS2](https://github.com/mishoo/UglifyJS2) with one major difference - it minifies your variables by default and replaces them with hilarious emojis. 
 
